@@ -1,2 +1,4 @@
-# reason_ssl_midi_controller
-Midi-controller used for controlling the ssl mixer in Reason DAW
+# Reason SSL midi-controller
+This project aims to design a custom Midi controller for controlling the SSL-mixer (EQ and Compressor) in Reason DAW
+
+
